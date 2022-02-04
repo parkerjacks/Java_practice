@@ -6,5 +6,10 @@ public class DataTypesExercises{
         char myLetter = "A"; 
         boolean myBool = false;
         String myText = "Hello World";
+
+        //type casting practice 
+        double myDouble = 9.78d;
+        int myInt = (int) myDouble;
+
     }
 }
